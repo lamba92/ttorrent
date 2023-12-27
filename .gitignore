@@ -4,6 +4,7 @@
 # Ignore build output
 /build/*
 */build
+.gradle/
 
 # Ignore Javadoc output
 /doc/*
